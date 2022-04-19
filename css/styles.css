@@ -7,7 +7,7 @@ body{
     display: grid;
     justify-items: center;
     height: 95vh;
-	background-color: #e7650d;
+	background-color: #e18c47;
 }
 h1{
 	font-family: 'Telma-Regular';
@@ -25,7 +25,7 @@ a{
 	text-align: center;
 	width: 55vw;
 	height: 45px;
-	background-color: #773508;
+	background-color: #bb4c02;
 	color: white;
 	margin-bottom: 15px;
 	padding-top: 18px;
@@ -34,7 +34,7 @@ a{
 	font-family: 'Ranade-Regular';
 }
 #alt1{
-	background-color: #bb4c02;
+	background-color: #e7650d;
 }
 #alt2{
 	background-color: #800000;
