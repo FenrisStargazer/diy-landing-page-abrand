@@ -7,6 +7,7 @@ A DIY Landing Page that links to different pages. Probably useful to display por
 https://css-tricks.com/snippets/css/complete-guide-grid/#aa-grid-properties
 https://www.fontshare.com/
 https://www.w3schools.com/colors/colors_picker.asp
+https://cssgrid-generator.netlify.app/
 
 
 ## Why Does This Exist? 
